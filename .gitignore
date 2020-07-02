@@ -1,1 +1,3 @@
+node_modules/
 example/drag-drop.js
+package-lock.json
